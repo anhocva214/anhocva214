@@ -7,13 +7,13 @@
 </p>
 
 
-## Your repsitories
+## Your pattern
 
 <p width="100%" align="center">
-<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anhocva214&repo=pattern-nodejs-ts&theme=react&border_color=61dafb&border_radius=10">
+<img align="left" width="100%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anhocva214&repo=pattern-nodejs-ts&theme=react&border_color=61dafb&border_radius=10">
 <br> <br/><br/><br/><br/><br/>
 
-<img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anhocva214&repo=pattern-nextjs-ts&theme=react&border_color=61dafb&border_radius=10">
+<img align="left" width="100%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anhocva214&repo=pattern-nextjs-ts&theme=react&border_color=61dafb&border_radius=10">
 
 <br> <br/><br/><br/><br/>
 
