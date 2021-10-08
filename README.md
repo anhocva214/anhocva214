@@ -7,7 +7,7 @@
 
 ## About Me! 😎
 
-- 🏫: I'm a 3-year students at VNUHCM - University of Science.
+- 🏫: I'm a junior students at VNUHCM - University of Science.
 - 🔭: I’m currently working on many web, app projects.
 - 🌱: I’m currently learning Artificial Intelligence such as Machine Learning, Deep Learning. 🧠 💻 🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
