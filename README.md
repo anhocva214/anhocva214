@@ -189,12 +189,12 @@
 ## Pinned
 
 <div align="center">
-<a href="https://github.com/anhocva214/pattern-nextjs-ts" ><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anhocva214&repo=template-nextjs-ts&theme=react&border_color=61dafb&border_radius=10"></a>
+<a href="https://github.com/anhocva214/pattern-nextjs-ts" ><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anhocva214&repo=pattern-nextjs-ts&theme=react&border_color=61dafb&border_radius=10"></a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/anhocva214/pattern-api-expressjs-ts"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anhocva214&repo=template-nodejs-ts&theme=react&border_color=61dafb&border_radius=10"></a>
+<a href="https://github.com/anhocva214/pattern-api-expressjs-ts"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=anhocva214&repo=pattern-api-expressjs-ts&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 ### Github Stats
